@@ -5,7 +5,7 @@
  * See COPYING.txt for license details.
  */
 
-namespace Magento\Customer\Api;
+namespace Pavani\Assignment3\Api;
 
 use Magento\Framework\Exception\InputException;
 
